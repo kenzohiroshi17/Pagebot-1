@@ -1,14 +1,14 @@
 {
-  "PAGE_ACCESS_TOKEN": "",
+  "PAGE_ACCESS_TOKEN": "EAASJ4D4LMRYBO1yTLsZAwh4RVT9jO5RoloVtRz95PAdVSdj5oIElZCZCBuSFHyszphMtmcp58sVAGCB2QC2hZBim1V6NFFAfrbfSnieq4TpB5dk3fxkKbBHBZCLzATygbEbp3U3G2cHNKCAZCZBuMhphzIBZB5QmcHJnFTcIJUBtdujIOf0sG95nZCtNjTweT4T1CiQZDZD",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "61563429217847"
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "Nash Ai",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Glenn Loterte Tabalde",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
@@ -16,5 +16,5 @@
       "#ff952a"
     ]
   },
-  "selfListen": false
+  "selfListen": true
 }
