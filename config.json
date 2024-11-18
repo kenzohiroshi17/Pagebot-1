@@ -4,11 +4,11 @@
   "ADMINS": [
     ""
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "Nash Ai",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Glenn Loterte Tabalde",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
